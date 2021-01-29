@@ -7,7 +7,7 @@
         + If a plane takes off, its `isFlying` property gets set to true.
         + If a plane lands, its `isFlying` property gets set to false.
 */
-
+     
 // EXAMPLE SOLUTION CODE:
 class Airplane {
     constructor(name) {
@@ -21,7 +21,7 @@ class Airplane {
       this.isFlying = false;
     }
   }
-  
+  6
   /*
   // 👇 COMPLETE YOUR WORK BELOW 👇
   // 👇 COMPLETE YOUR WORK BELOW 👇
